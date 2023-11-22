@@ -1,0 +1,2 @@
+ method='GET',
+            url=f'https://api.debank.com/portfolio/project_list?user_addr={address}',
